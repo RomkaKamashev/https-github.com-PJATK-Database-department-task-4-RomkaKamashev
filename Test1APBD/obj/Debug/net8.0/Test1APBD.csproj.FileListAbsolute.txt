@@ -1,0 +1,8 @@
+C:\Users\s28349\Documents\GitHub\https-github.com-PJATK-Database-department-task-4-RomkaKamashev\Test1APBD\obj\Debug\net8.0\Test1APBD.csproj.AssemblyReference.cache
+C:\Users\s28349\Documents\GitHub\https-github.com-PJATK-Database-department-task-4-RomkaKamashev\Test1APBD\obj\Debug\net8.0\Test1APBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s28349\Documents\GitHub\https-github.com-PJATK-Database-department-task-4-RomkaKamashev\Test1APBD\obj\Debug\net8.0\Test1APBD.AssemblyInfoInputs.cache
+C:\Users\s28349\Documents\GitHub\https-github.com-PJATK-Database-department-task-4-RomkaKamashev\Test1APBD\obj\Debug\net8.0\Test1APBD.AssemblyInfo.cs
+C:\Users\s28349\Documents\GitHub\https-github.com-PJATK-Database-department-task-4-RomkaKamashev\Test1APBD\obj\Debug\net8.0\Test1APBD.csproj.CoreCompileInputs.cache
+C:\Users\s28349\Documents\GitHub\https-github.com-PJATK-Database-department-task-4-RomkaKamashev\Test1APBD\obj\Debug\net8.0\Test1APBD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\s28349\Documents\GitHub\https-github.com-PJATK-Database-department-task-4-RomkaKamashev\Test1APBD\obj\Debug\net8.0\Test1APBD.RazorAssemblyInfo.cache
+C:\Users\s28349\Documents\GitHub\https-github.com-PJATK-Database-department-task-4-RomkaKamashev\Test1APBD\obj\Debug\net8.0\Test1APBD.RazorAssemblyInfo.cs
